@@ -46,16 +46,29 @@ Complete  Watson Visual Recognition and/or Natural Language Understanding Node R
 Instructions on how to bind a service to your application: https://medium.com/@helenflam/how-to-bind-a-service-to-your-application-875bcd8c72f0
 
 
-## Important Links - sample code and tutorials
+## IMPORTANK LINKS 
 
-* Tutorials: https://github.com/watson-developer-cloud
-* Tutorials: https://medium.com/ibm-watson-developer-cloud
-* Tutorials: https://github.com/Bluemix-Watson-Labs/Agenda-WDC-April-2017
-* Watson Cognitive Claims Accelerator: https://developer.ibm.com/recipes/tutorials/category/cognitive-computing/
-* IBM Code and Watson patterns: https://developer.ibm.com/code/patterns/
+## Tutorials and SDKs
+* Tutorials and Watson SDKs on Github: https://github.com/watson-developer-cloud
 * Watson Developer Cloud SDKs: https://www.ibm.com/watson/developer-resources/
-* Watson Developer Cloud Swagger docs: https://watson-api-explorer.mybluemix.net/
-* Watson Docs: https://www.ibm.com/watson/developercloud/doc/index.html
+* Tutorials for Watson Node Red labs (perfect for hackathons and quick prototyping): https://github.com/watson-developer-cloud/node-red-labs
+* Tutorials on Watson on Medium Blog: https://medium.com/ibm-watson-developer-cloud
+* Additional Tutorials on Watson: https://github.com/Bluemix-Watson-Labs/Agenda-WDC-April-2017/blob/master/README.md
 
+## Code Patterns and recipes
+* Watson Cognitive Claims Accelerator (need to sign into IBM Cloud to see): https://developer.ibm.com/recipes/tutorials/category/cognitive-computing/
+* IBM Artificial Intelligence Code Patterns: https://developer.ibm.com/code/technologies/artificial-intelligence/
+* Watson Starter Kit: https://console.bluemix.net/developer/watson/starter-kits
+
+## Watson Documentation 
+
+* Watson Developer Resources: https://www.ibm.com/watson/developer-resources/
+* Watson Developer Cloud Swagger docs: https://watson-api-explorer.mybluemix.net/
+* Post a question on Watson Developer Works Forum: https://developer.ibm.com/answers/topics/watson.html
+* Post a question on Watson Stack Overflow Forum: https://stackoverflow.com/questions/tagged/ibm-watson-cognitive
+
+## Additional Educational Resources 
+* JOIN Watson Slack Channel for all unanswered questions (available to everyone): http://wdc-slack-inviter.mybluemix.net/
+* Watson Webinars: https://www.ibm.com/watson/webinars/
 
 
