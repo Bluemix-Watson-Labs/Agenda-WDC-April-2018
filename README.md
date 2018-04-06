@@ -56,6 +56,7 @@ Instructions on how to bind a service to your application: https://medium.com/@h
 * Additional Tutorials on Watson: https://github.com/Bluemix-Watson-Labs/Agenda-WDC-April-2017/blob/master/README.md
 
 ## Code Patterns and recipes
+
 * Watson Cognitive Claims Accelerator (need to sign into IBM Cloud to see): https://developer.ibm.com/recipes/tutorials/category/cognitive-computing/
 * IBM Artificial Intelligence Code Patterns: https://developer.ibm.com/code/technologies/artificial-intelligence/
 * Watson Starter Kit: https://console.bluemix.net/developer/watson/starter-kits
@@ -66,9 +67,12 @@ Instructions on how to bind a service to your application: https://medium.com/@h
 * Watson Developer Cloud Swagger docs: https://watson-api-explorer.mybluemix.net/
 * Post a question on Watson Developer Works Forum: https://developer.ibm.com/answers/topics/watson.html
 * Post a question on Watson Stack Overflow Forum: https://stackoverflow.com/questions/tagged/ibm-watson-cognitive
+* Post a question on Watson Slack Channel for all unanswered questions (available to everyone): http://wdc-slack-inviter.mybluemix.net/
 
 ## Additional Educational Resources 
-* JOIN Watson Slack Channel for all unanswered questions (available to everyone): http://wdc-slack-inviter.mybluemix.net/
+
 * Watson Webinars: https://www.ibm.com/watson/webinars/
+* Watson Blog: https://www.ibm.com/blogs/watson/
+* Watson Medium blog:  https://medium.com/ibm-watson-developer-cloud
 
 
