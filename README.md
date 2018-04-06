@@ -51,8 +51,8 @@ Instructions on how to bind a service to your application: https://medium.com/@h
 * Tutorials: https://github.com/watson-developer-cloud
 * Tutorials: https://medium.com/ibm-watson-developer-cloud
 * Tutorials: https://github.com/Bluemix-Watson-Labs/Agenda-WDC-April-2017
-* Watson Cognitive Claims Accelerator: https://watsonaccelerators.mybluemix.net/ibm/accelerator/claims 
-  * Watson Cognitive Claims Accelerator - requires Bluemix ID. Scroll down to "All Accelerators" then click A to Z and find "Cognitive Claims"
+* Watson Cognitive Claims Accelerator: https://developer.ibm.com/recipes/tutorials/category/cognitive-computing/
+* IBM Code and Watson patterns: https://developer.ibm.com/code/patterns/
 * Watson Developer Cloud SDKs: https://www.ibm.com/watson/developer-resources/
 * Watson Developer Cloud Swagger docs: https://watson-api-explorer.mybluemix.net/
 * Watson Docs: https://www.ibm.com/watson/developercloud/doc/index.html
