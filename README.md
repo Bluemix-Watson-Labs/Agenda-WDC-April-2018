@@ -14,7 +14,7 @@
 * Watson Discovery
   * Video: https://youtu.be/9ks-cEG6KPs
   * Demo: https://discovery-news-demo.mybluemix.net/
-* Conversation 
+* Watson Virtual Assistant (formerly Watson Conversation) 
   * Video: https://www.youtube.com/watch?v=A96nLYSMltA&list=PLZDyxLlNKRY-YOxeg5Hv0IMgQfmKp8ZN4
   * Demo: https://conversation-demo.mybluemix.net/
   * Extra FYI Watson Discovery + Watson Conversation: https://www.youtube.com/watch?v=SasXUqBE-38
@@ -39,11 +39,11 @@
 
 Complete  Watson Visual Recognition and/or Natural Language Understanding Node Red labs. 
 
-Instructions on how to bind a service to your application: https://medium.com/@helenflam/how-to-bind-a-service-to-your-application-875bcd8c72f0
-
 (i) Visual Recognition lab: https://medium.com/@helenflam/quickly-exploring-the-visual-recognition-api-using-node-red-db11680bf69
 
 (ii) Natural Language Understanding Lab: https://github.com/jeancarl/node-red-labs/blob/master/node-red-natural-language-understanding/node-red-natural-language-understanding.pdf
+
+Instructions on how to bind a service to your application: https://medium.com/@helenflam/how-to-bind-a-service-to-your-application-875bcd8c72f0
 
 
 ## Important Links - sample code and tutorials
