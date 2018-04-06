@@ -3,7 +3,7 @@
 ## Workshop 1 - Intro to Watson Developer Cloud APIs
 * Visual Recognition
   * Video: https://www.youtube.com/watch?v=n3_oGnXkMAE
-  * Demo: https://visual-recognition-demo.mybluemix.net/
+  * Demo: https://www.ibm.com/watson/services/visual-recognition/demo/
   * Overview: https://www.ibm.com/watson/developercloud/visual-recognition.html
 * Watson Natural Language Understanding
   * Video: https://www.youtube.com/watch?v=MB4ynlq52C4
