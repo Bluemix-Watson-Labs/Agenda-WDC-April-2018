@@ -46,7 +46,7 @@ Complete  Watson Visual Recognition and/or Natural Language Understanding Node R
 Instructions on how to bind a service to your application: https://medium.com/@helenflam/how-to-bind-a-service-to-your-application-875bcd8c72f0
 
 
-## IMPORTANK LINKS 
+## IMPORTANT LINKS 
 
 ## Tutorials and SDKs
 * Tutorials and Watson SDKs on Github: https://github.com/watson-developer-cloud
