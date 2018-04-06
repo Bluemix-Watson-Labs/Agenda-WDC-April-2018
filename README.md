@@ -39,7 +39,7 @@
 
 Complete  Watson Visual Recognition and/or Natural Language Understanding Node Red labs. 
 
-(i) Visual Recognition lab: https://medium.com/@helenflam/quickly-exploring-the-visual-recognition-api-using-node-red-db11680bf69
+(i) Visual Recognition lab: https://github.com/djccarew/node-red-labs/tree/master/basic_examples/visual_recognition
 
 (ii) Natural Language Understanding Lab: https://github.com/jeancarl/node-red-labs/blob/master/node-red-natural-language-understanding/node-red-natural-language-understanding.pdf
 
