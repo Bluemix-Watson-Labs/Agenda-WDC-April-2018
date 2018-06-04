@@ -53,7 +53,8 @@ Instructions on how to bind a service to your application: https://medium.com/@h
 * Watson Developer Cloud SDKs: https://www.ibm.com/watson/developer-resources/
 * Tutorials for Watson Node Red labs (perfect for hackathons and quick prototyping): https://github.com/watson-developer-cloud/node-red-labs
 * Tutorials on Watson on Medium Blog: https://medium.com/ibm-watson-developer-cloud
-* Additional Tutorials on Watson: https://github.com/Bluemix-Watson-Labs/Agenda-WDC-April-2017/blob/master/README.md
+* Additional Tutorials on Watson from GitHub: https://github.com/Bluemix-Watson-Labs/Agenda-WDC-April-2017/blob/master/README.md
+* Tutorials from IBM Wolfpack team on GitHub: https://github.com/team-wolfpack/Wolfpack-Technical-Event-Content
 
 ## Code Patterns and recipes
 
