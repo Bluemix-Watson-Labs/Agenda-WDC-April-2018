@@ -41,10 +41,11 @@ Complete  Watson Visual Recognition and/or Natural Language Understanding Node R
 
 (i) Visual Recognition lab: https://github.com/djccarew/node-red-labs/tree/master/basic_examples/visual_recognition
 
-(ii) Natural Language Understanding Lab: https://github.com/jeancarl/node-red-labs/blob/master/node-red-natural-language-understanding/node-red-natural-language-understanding.pdf
+(ii) Train Visual Recognition Classifiers: https://watson-visual-recognition.ng.bluemix.net/login/
+
+(iii) Natural Language Understanding Lab: https://github.com/jeancarl/node-red-labs/blob/master/node-red-natural-language-understanding/node-red-natural-language-understanding.pdf
 
 Instructions on how to bind a service to your application: https://medium.com/@helenflam/how-to-bind-a-service-to-your-application-875bcd8c72f0
-
 
 ## IMPORTANT LINKS 
 
@@ -53,14 +54,16 @@ Instructions on how to bind a service to your application: https://medium.com/@h
 * Watson Developer Cloud SDKs: https://www.ibm.com/watson/developer-resources/
 * Tutorials for Watson Node Red labs (perfect for hackathons and quick prototyping): https://github.com/watson-developer-cloud/node-red-labs
 * Tutorials on Watson on Medium Blog: https://medium.com/ibm-watson-developer-cloud
-* Additional Tutorials on Watson from GitHub: https://github.com/Bluemix-Watson-Labs/Agenda-WDC-April-2017/blob/master/README.md
-* Tutorials from IBM Wolfpack team on GitHub: https://github.com/team-wolfpack/Wolfpack-Technical-Event-Content
+
 
 ## Code Patterns and recipes
 
 * Watson Cognitive Claims Accelerator (need to sign into IBM Cloud to see): https://developer.ibm.com/recipes/tutorials/category/cognitive-computing/
-* IBM Artificial Intelligence Code Patterns: https://developer.ibm.com/code/technologies/artificial-intelligence/
+* IBM Code: https://developer.ibm.com/
+* IBM Code Patterns: https://developer.ibm.com/patterns/
 * Watson Starter Kit: https://console.bluemix.net/developer/watson/starter-kits
+* Watson Blog Posts: https://medium.com/ibm-watson
+* Watson Github: https://github.com/watson-developer-cloud
 
 ## Watson Documentation 
 
