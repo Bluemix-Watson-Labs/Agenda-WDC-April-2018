@@ -79,4 +79,13 @@ Instructions on how to bind a service to your application: https://medium.com/@h
 * Watson Blog: https://www.ibm.com/blogs/watson/
 * Watson Medium blog:  https://medium.com/ibm-watson-developer-cloud
 
+## Contact for follow up 
+
+* helen.lam@ibm.com, @helennnsays
+* mofizur.rahman@ibm.com, @moficodes
+
+## Internship Hiring NOW September 2018
+
+* [Apply for an internship](https://www.applytracking.com/tp/rj6.uIO0-I_K) 
+
 
