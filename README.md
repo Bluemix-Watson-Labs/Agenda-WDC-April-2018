@@ -41,9 +41,11 @@ Complete  Watson Visual Recognition and/or Natural Language Understanding Node R
 
 (i) Visual Recognition lab: https://github.com/djccarew/node-red-labs/tree/master/basic_examples/visual_recognition
 
-(ii) Train Visual Recognition Classifiers: https://watson-visual-recognition.ng.bluemix.net/login/
+(ii) Natural Language Understanding Lab: https://github.com/jeancarl/node-red-labs/blob/master/node-red-natural-language-understanding/node-red-natural-language-understanding.pdf
 
-(iii) Natural Language Understanding Lab: https://github.com/jeancarl/node-red-labs/blob/master/node-red-natural-language-understanding/node-red-natural-language-understanding.pdf
+(iii) Train Drone Images using Watson Studio: https://github.com/IBM/drones-iot-visual-recognition
+
+Use this link, if you are unable to use Watson Studio to train your images. Train Visual Recognition Classifiers: https://watson-visual-recognition.ng.bluemix.net/login/
 
 Instructions on how to bind a service to your application: https://medium.com/@helenflam/how-to-bind-a-service-to-your-application-875bcd8c72f0
 
@@ -82,10 +84,4 @@ Instructions on how to bind a service to your application: https://medium.com/@h
 ## Contact for follow up 
 
 * helen.lam@ibm.com, @helennnsays
-* mofizur.rahman@ibm.com, @moficodes
-
-## Internship Hiring NOW September 2018
-
-* [Apply for an internship](https://www.applytracking.com/tp/rj6.uIO0-I_K) 
-
 
