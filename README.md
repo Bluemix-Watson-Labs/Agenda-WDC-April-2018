@@ -1,4 +1,4 @@
-# Watson Developr Cloud Workshop 04/18
+# Watson Developer Cloud Workshop 10/18
 
 ## Workshop 1 - Intro to Watson Developer Cloud APIs
 * Visual Recognition
