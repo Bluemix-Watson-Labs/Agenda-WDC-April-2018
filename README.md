@@ -41,7 +41,7 @@ Complete  Watson Visual Recognition and/or Natural Language Understanding Node R
 
 (i) Visual Recognition lab: https://github.com/djccarew/node-red-labs/tree/master/basic_examples/visual_recognition
 
-(ii) Natural Language Understanding Lab: https://github.com/jeancarl/node-red-labs/blob/master/node-red-natural-language-understanding/node-red-natural-language-understanding.pdf
+(ii) Natural Language Understanding Lab: https://github.com/IBM/natural-language-understanding-node-red
 
 (iii) Train Drone Images using Watson Studio: https://github.com/IBM/drones-iot-visual-recognition
 
